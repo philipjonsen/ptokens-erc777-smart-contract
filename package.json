@@ -1,6 +1,6 @@
 {
   "name": "y",
-  "version": "2.6.0",
+  "version": "2.6.0-erc777-hooks-removed",
   "description": "The pToken ERC777 smart-contract & bytecode generator",
   "main": "bytecode-generator.js",
   "scripts": {
